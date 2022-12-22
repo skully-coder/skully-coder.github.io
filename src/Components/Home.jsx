@@ -13,23 +13,23 @@ import PropTypes from "prop-types";
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/server-wall.jpg";
+import image from "../images/bg.jpg";
 
-const imageAltText = "woman holding laptop standing by server room with glass wall";
+const imageAltText = "background image";
 
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="dark">
       <img className="background" src={image} alt="" />
-      <div style={{ position: "absolute", top: "30%", left: "2rem" }}>
-        <h1>{name}</h1>
+      <div style={{ position: "absolute", top: "29%", left: "2rem" }}>
+        <h1 style={{ fontFamily: "Poppins" }}>{name}</h1>
         <h2>{title}</h2>
       </div>
       <div style={{ position: "absolute", bottom: "8rem", left: "50%" }}>
