@@ -4,7 +4,9 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
 
-html,
+html {
+  scroll-behavior: smooth;
+}
 body {
   margin: 0;
   padding: 0;
@@ -31,7 +33,7 @@ section.dark {
 section.light {
   color: black;
   background: rgba(255, 255, 255, 0.35);
-  padding: 8rem 0;
+  padding: 6rem 0;
 }
 
 section img.background {
@@ -64,6 +66,11 @@ h3 {
   font-weight: 400;
   font-size: 1.25rem;
   margin: 0;
+}
+
+h3.education {
+  font-weight: 600;
+  font-size: 1.5rem;
 }
 
 p {
@@ -122,4 +129,13 @@ a:hover {
 img.socialIcon {
   width: 30px;
   height: 30px;
+}
+
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
 }
