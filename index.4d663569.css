@@ -137,4 +137,46 @@ img.socialIcon {
   }
 }
 
+.contact-section {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  margin-top: 3rem;
+  padding: 2rem;
+  box-shadow: 0 4px 8px #0000001a;
+}
+
+.contact-form {
+  max-width: 600px;
+  flex-direction: column;
+  margin: 0 auto;
+  display: flex;
+}
+
+.contact-form label {
+  margin-bottom: .5rem;
+  font-weight: bold;
+}
+
+.contact-input, .contact-textarea {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  padding: .5rem;
+  font-size: 1rem;
+}
+
+.contact-button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  padding: .5rem;
+  font-size: 1rem;
+}
+
+.contact-button:hover {
+  background-color: #0056b3;
+}
+
 /*# sourceMappingURL=index.4d663569.css.map */
