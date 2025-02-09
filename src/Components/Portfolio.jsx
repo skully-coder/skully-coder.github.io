@@ -9,26 +9,9 @@
  */
 
 import React from "react";
-
-/**
- * Desk image
- *
- * Below is a sample desk image. Feel free to update this to an image of your choice,
- * updating below imageAltText to string that represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a photo you
- * freely use on your site.
- */
 import image from "../images/design-desk.jpeg";
 
 const imageAltText = "desktop with books and laptop";
-
-/**
- * Project list
- *
- * An array of objects that will be used to display for your project
- * links section. Below is a sample, update to reflect links you'd like to highlight.
- */
 
 const projectList = [
   {
@@ -51,37 +34,10 @@ const projectList = [
   {
     title: "Sian",
     description:
-      "Developed to make travel even more fun! Users can take pictures of the places they visit, and score points, which can be redeemed in local businesses as discount vouchers. ",
+      "Sian is a travel app that gamifies the travel experience. Users can take pictures of the places they visit, score points, and redeem them for discounts at local businesses. The app also provides travel recommendations and helps users discover new places.",
     url: "https://devpost.com/software/sian",
   },
 ];
-
-// const projectList = [
-//   {
-//     title: "10 Things To Know About Azure Static Web Apps 🎉",
-//     description:
-//       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-//     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
-//   },
-//   {
-//     title: "Web Development for Beginners",
-//     description:
-//       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-//     url: "https://github.com/microsoft/web-dev-for-beginners",
-//   },
-//   {
-//     title: "My Resume Site",
-//     description:
-//       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-//     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-//   },
-//   {
-//     title: "GitHub Codespaces and github.dev",
-//     description:
-//       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-//     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-//   },
-// ];
 
 const Portfolio = () => {
   return (
@@ -102,12 +58,34 @@ const Portfolio = () => {
         </div>
         <div className="container">
           {projectList.map((project) => (
-            <div className="box" key={project.title}>
-              <a href={project.url} target="_blank" rel="noopener noreferrer">
+            <a
+              href={project.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              key={project.title}
+              style={{ textDecoration: "none", color: "inherit" }}
+            >
+              <div
+                className="box"
+                style={{
+                  marginBottom: "1rem",
+                  padding: "1rem",
+                  border: "1px solid #ccc",
+                  borderRadius: "8px",
+                  boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
+                  cursor: "pointer",
+                  height: "200px",
+                  overflow: "hidden",
+                  display: "flex",
+                  flexDirection: "column",
+                }}
+              >
                 <h3 style={{ flexBasis: "40px" }}>{project.title}</h3>
-              </a>
-              <p className="small">{project.description}</p>
-            </div>
+                <p className="small" style={{ flexGrow: 1, overflow: "hidden", textOverflow: "ellipsis" }}>
+                  {project.description}
+                </p>
+              </div>
+            </a>
           ))}
         </div>
       </div>

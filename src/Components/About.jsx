@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a CSE student studying at Manipal Institute of Technology. I enjoy creating unique and complex applications. I am passionate about solving problems in new creative ways to drive innovation.";
+  "I'm an Application Developer at Oracle. I enjoy creating unique and complex applications. I am passionate about solving problems in new creative ways to drive innovation.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

@@ -12,6 +12,7 @@ import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
 import Education from "./Components/Education";
+import ContactForm from "./Components/ContactForm";
 
 import "./styles.css";
 
@@ -26,7 +27,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Abhinav Agrawal",
-  title: "Software Engineer",
+  title: "Application Developer",
   email: "abhinav.hfs@gmail.com",
   gitHub: "skully-coder",
   instagram: "abhi_1.7.0.9",
@@ -47,6 +48,7 @@ const App = () => {
       <About />
       <Education />
       <Portfolio />
+      <ContactForm />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
   );
