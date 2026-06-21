@@ -5,11 +5,20 @@
   "source": "src/index.html",
   "homepage": "https://skully-coder.github.io/",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://skully-coder.github.io/'",
+    "start": "parcel --no-cache",
+    "build": "parcel build --no-cache",
+    "clean-dist": "node scripts/clean-dist.mjs",
+    "build-gh": "npm run clean-dist && parcel build --no-cache --public-url / --dist-dir deploy-dist && node scripts/prepare-dist-extras.mjs && node scripts/prune-dist.mjs",
+    "check:sources": "node scripts/check-public-signals.mjs",
+    "prune-dist": "node scripts/prune-dist.mjs",
+    "verify:a11y": "node scripts/verify-accessibility.mjs",
+    "verify:budget": "node scripts/verify-performance-budget.mjs",
+    "verify": "node scripts/verify-portfolio.mjs",
+    "verify:ui": "node scripts/verify-ui-strategy.mjs",
+    "verify:http": "node scripts/smoke-deploy-http.mjs",
+    "verify:all": "npm run check:sources && eslint src && npm run verify:ui && npm run verify:a11y && npm run build-gh && npm run verify && npm run verify:http && npm run verify:budget && npm run verify:a11y && npm run verify:ui",
     "predeploy": "npm run build-gh",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d deploy-dist"
   },
   "repository": {
     "type": "git",

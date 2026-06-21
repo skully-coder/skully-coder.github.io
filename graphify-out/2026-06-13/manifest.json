@@ -1,0 +1,237 @@
+{
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/hooks.json": {
+    "mtime": 1781357422.2198775,
+    "ast_hash": "f5676f468a1bfe4817352fd3d4b63d6f",
+    "semantic_hash": "f5676f468a1bfe4817352fd3d4b63d6f"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.devcontainer/devcontainer.json": {
+    "mtime": 1776839383.0105853,
+    "ast_hash": "f43ca3a74b098230e12b204bbf6e4c13",
+    "semantic_hash": "f43ca3a74b098230e12b204bbf6e4c13"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/package.json": {
+    "mtime": 1776839383.0413663,
+    "ast_hash": "57f3fa55637f88de9a1850054c5cffb8",
+    "semantic_hash": "57f3fa55637f88de9a1850054c5cffb8"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/App.jsx": {
+    "mtime": 1779032094.3937848,
+    "ast_hash": "a3dd840a96f77a214e80fbfd36b88abc",
+    "semantic_hash": "a3dd840a96f77a214e80fbfd36b88abc"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/Components/About.jsx": {
+    "mtime": 1776839383.0794897,
+    "ast_hash": "cb8dc3c0aa9bb3cb075fdbc731b1e419",
+    "semantic_hash": "cb8dc3c0aa9bb3cb075fdbc731b1e419"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/Components/ContactForm.jsx": {
+    "mtime": 1776839383.0803404,
+    "ast_hash": "601a79c59c3145f70cdea3baa8c1a552",
+    "semantic_hash": "601a79c59c3145f70cdea3baa8c1a552"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/Components/Education.jsx": {
+    "mtime": 1776839383.080546,
+    "ast_hash": "9f0728583dae4bf8f44e94f1e30b7b7f",
+    "semantic_hash": "9f0728583dae4bf8f44e94f1e30b7b7f"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/Components/Footer.jsx": {
+    "mtime": 1776839383.0809743,
+    "ast_hash": "1c4a6ca52c0a2baefe03a69edbe1f94d",
+    "semantic_hash": "1c4a6ca52c0a2baefe03a69edbe1f94d"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/Components/Header.jsx": {
+    "mtime": 1776839383.081956,
+    "ast_hash": "61183b20e1385dc4348955c4e7800ade",
+    "semantic_hash": "61183b20e1385dc4348955c4e7800ade"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/Components/Home.jsx": {
+    "mtime": 1776839383.0825288,
+    "ast_hash": "416a2fe4899fe7ff0042399e9221fb03",
+    "semantic_hash": "416a2fe4899fe7ff0042399e9221fb03"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/Components/Portfolio.jsx": {
+    "mtime": 1776839383.0829594,
+    "ast_hash": "67c2465a2a301615c7a1a8b6b481b630",
+    "semantic_hash": "67c2465a2a301615c7a1a8b6b481b630"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/index.js": {
+    "mtime": 1776839383.130746,
+    "ast_hash": "5750664b1353782612e28f625706a61e",
+    "semantic_hash": "5750664b1353782612e28f625706a61e"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/skills/graphify/SKILL.md": {
+    "mtime": 1781357422.2168455,
+    "ast_hash": "5c72924d8902cf334936c5827ff65349",
+    "semantic_hash": "5c72924d8902cf334936c5827ff65349"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/skills/graphify/references/add-watch.md": {
+    "mtime": 1781357375.2198365,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/skills/graphify/references/exports.md": {
+    "mtime": 1781357375.2203784,
+    "ast_hash": "c04ddf8f1f5ef5e262ebec491a523c74",
+    "semantic_hash": "c04ddf8f1f5ef5e262ebec491a523c74"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/skills/graphify/references/extraction-spec.md": {
+    "mtime": 1781357375.2210953,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/skills/graphify/references/github-and-merge.md": {
+    "mtime": 1781357375.2215364,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/skills/graphify/references/hooks.md": {
+    "mtime": 1781357375.221933,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/skills/graphify/references/query.md": {
+    "mtime": 1781357375.2222662,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/skills/graphify/references/transcribe.md": {
+    "mtime": 1781357375.222488,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/.codex/skills/graphify/references/update.md": {
+    "mtime": 1781357375.2227404,
+    "ast_hash": "0dad167a95bdb389f02fecffb60b1bc8",
+    "semantic_hash": "0dad167a95bdb389f02fecffb60b1bc8"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/AGENTS.md": {
+    "mtime": 1781357422.2183104,
+    "ast_hash": "62c05a2bf20bf036a0b2633478663e64",
+    "semantic_hash": "62c05a2bf20bf036a0b2633478663e64"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/CODE_OF_CONDUCT.md": {
+    "mtime": 1776839383.0118997,
+    "ast_hash": "c06b12caf3c901eb3156e3dd5b0aea56",
+    "semantic_hash": "c06b12caf3c901eb3156e3dd5b0aea56"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/README.md": {
+    "mtime": 1776839383.0126328,
+    "ast_hash": "60808e0f057c51c17efd3d543c5137ca",
+    "semantic_hash": "60808e0f057c51c17efd3d543c5137ca"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/SECURITY.md": {
+    "mtime": 1776839383.0129163,
+    "ast_hash": "a583f49d359c7ebba61433e4dfcd05a9",
+    "semantic_hash": "a583f49d359c7ebba61433e4dfcd05a9"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/SUPPORT.md": {
+    "mtime": 1776839383.0132186,
+    "ast_hash": "987dd83f625a7f6e99142f94b6f24dd5",
+    "semantic_hash": "987dd83f625a7f6e99142f94b6f24dd5"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/index.html": {
+    "mtime": 1779032005.1295528,
+    "ast_hash": "05bfb849215b69ded05b3bc250093223",
+    "semantic_hash": "05bfb849215b69ded05b3bc250093223"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/translations/README.md": {
+    "mtime": 1776839383.1315696,
+    "ast_hash": "631abf306977a15c9418cc176041ba76",
+    "semantic_hash": "631abf306977a15c9418cc176041ba76"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/translations/es/README.md": {
+    "mtime": 1776839383.1320648,
+    "ast_hash": "0de1cdbaef05380f313ddb363b0ec6a9",
+    "semantic_hash": "0de1cdbaef05380f313ddb363b0ec6a9"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/Abhinav_Agrawal_CV (2).pdf": {
+    "mtime": 1779031475.8170283,
+    "ast_hash": "e59ced0f5ea4075d7607bf44e7050c6c",
+    "semantic_hash": "e59ced0f5ea4075d7607bf44e7050c6c"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/__images__/github-pages-deploy.gif": {
+    "mtime": 1776839383.0316334,
+    "ast_hash": "178111bb246cf119c11835e7d0cf821f",
+    "semantic_hash": "178111bb246cf119c11835e7d0cf821f"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/__images__/js-portfolio-site.gif": {
+    "mtime": 1776839383.0349948,
+    "ast_hash": "79b6f92ee07e6fd6e4db433ca8db718a",
+    "semantic_hash": "79b6f92ee07e6fd6e4db433ca8db718a"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/__images__/swa-deploy.gif": {
+    "mtime": 1776839383.0386953,
+    "ast_hash": "5e235813dcb4d10a371de860258415a3",
+    "semantic_hash": "5e235813dcb4d10a371de860258415a3"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/bg.jpg": {
+    "mtime": 1776839383.0980833,
+    "ast_hash": "10ed77c429ecb2fe0d0b72b3dcd1f9b4",
+    "semantic_hash": "10ed77c429ecb2fe0d0b72b3dcd1f9b4"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/design-desk.jpeg": {
+    "mtime": 1776839383.0999124,
+    "ast_hash": "624f24903feb3c770ac104a2e94a8b44",
+    "semantic_hash": "624f24903feb3c770ac104a2e94a8b44"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/down-arrow.svg": {
+    "mtime": 1776839383.1048837,
+    "ast_hash": "8438f1a63cdf588260777ef1c45ec2df",
+    "semantic_hash": "8438f1a63cdf588260777ef1c45ec2df"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/mosaic.svg": {
+    "mtime": 1776839383.1054544,
+    "ast_hash": "b0fbb1f7f1ce50983065877cd54550c6",
+    "semantic_hash": "b0fbb1f7f1ce50983065877cd54550c6"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/server-wall.jpg": {
+    "mtime": 1776839383.1069553,
+    "ast_hash": "31ebe28239c7bc7352803056e58a8d90",
+    "semantic_hash": "31ebe28239c7bc7352803056e58a8d90"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/socials/devdotto.svg": {
+    "mtime": 1776839383.1245024,
+    "ast_hash": "0275254354d7fb824b278c50abbe2645",
+    "semantic_hash": "0275254354d7fb824b278c50abbe2645"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/socials/envelope.svg": {
+    "mtime": 1776839383.1255586,
+    "ast_hash": "d622fcffcdace5a07cecf2179b1bb1f7",
+    "semantic_hash": "d622fcffcdace5a07cecf2179b1bb1f7"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/socials/github.svg": {
+    "mtime": 1776839383.125795,
+    "ast_hash": "88f1938aedd3c34ddc1742c3a968fc78",
+    "semantic_hash": "88f1938aedd3c34ddc1742c3a968fc78"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/socials/instagram.svg": {
+    "mtime": 1776839383.126062,
+    "ast_hash": "84e9fabd21afa5359a49b054c261caaf",
+    "semantic_hash": "84e9fabd21afa5359a49b054c261caaf"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/socials/linkedin.svg": {
+    "mtime": 1776839383.128831,
+    "ast_hash": "4b92f5319a68c15d82e53fb4812674b6",
+    "semantic_hash": "4b92f5319a68c15d82e53fb4812674b6"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/socials/medium.svg": {
+    "mtime": 1776839383.12943,
+    "ast_hash": "37ca8d6a55e31c8e4707d49f28aba253",
+    "semantic_hash": "37ca8d6a55e31c8e4707d49f28aba253"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/socials/microsoft.svg": {
+    "mtime": 1776839383.1297238,
+    "ast_hash": "8a184bfbb08ed50c2cc88895afc04dcb",
+    "semantic_hash": "8a184bfbb08ed50c2cc88895afc04dcb"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/socials/twitter.svg": {
+    "mtime": 1776839383.1300347,
+    "ast_hash": "0e34797a809c4182080baeb5e14e6c56",
+    "semantic_hash": "0e34797a809c4182080baeb5e14e6c56"
+  },
+  "/Users/abagragr/Documents/MyPortfolio/skully-coder.github.io/src/images/socials/youtube.svg": {
+    "mtime": 1776839383.1302633,
+    "ast_hash": "c94028abd19864d71f1cb41a0e0fa1d3",
+    "semantic_hash": "c94028abd19864d71f1cb41a0e0fa1d3"
+  }
+}

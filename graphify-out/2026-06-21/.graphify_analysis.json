@@ -1,0 +1,443 @@
+{
+  "communities": {
+    "0": [
+      "package",
+      "package_author",
+      "package_bugs",
+      "package_bugs_url",
+      "package_dependencies",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_description",
+      "package_homepage",
+      "package_license",
+      "package_name",
+      "package_repository",
+      "package_repository_type",
+      "package_repository_url",
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_build_gh",
+      "package_scripts_deploy",
+      "package_scripts_predeploy",
+      "package_scripts_start",
+      "package_source",
+      "package_version"
+    ],
+    "1": [
+      "abhinav_agrawal_cv_2_resume",
+      "images_swa_deploy_azure_extension_context",
+      "images_swa_deploy_github_codespaces",
+      "images_swa_deploy_localhost_1234",
+      "images_swa_deploy_my_portfolio_site_repository_workspace",
+      "images_swa_deploy_node_js_javascript_project_structure",
+      "images_swa_deploy_npm_run_start_command",
+      "images_swa_deploy_parcel_development_server",
+      "images_swa_deploy_static_web_apps_deploy_development_environment",
+      "images_swa_deploy_visual_studio_code_editor",
+      "readme_javascript_portfolio_template",
+      "readme_react_codespaces_deployment_workflow",
+      "src_index_abhinav_agrawal_profile",
+      "translations_es_readme_spanish_portfolio_template",
+      "translations_readme_translation_index"
+    ],
+    "2": [
+      "images_js_portfolio_site_about_navigation",
+      "images_js_portfolio_site_alexandrie_gremier",
+      "images_js_portfolio_site_contact_navigation",
+      "images_js_portfolio_site_data_center_background",
+      "images_js_portfolio_site_home_navigation",
+      "images_js_portfolio_site_portfolio_navigation",
+      "images_js_portfolio_site_portfolio_website_homepage_hero",
+      "images_js_portfolio_site_professional_woman_holding_tablet",
+      "images_js_portfolio_site_scroll_down_control",
+      "images_js_portfolio_site_web_designer_and_content_creator",
+      "images_server_wall_data_center_corridor",
+      "images_server_wall_data_center_server_wall_image",
+      "images_server_wall_glass_reflection",
+      "images_server_wall_server_racks",
+      "images_server_wall_tablet_user"
+    ],
+    "3": [
+      "images_github_pages_deploy_explorer_file_tree",
+      "images_github_pages_deploy_forwarded_port_notification",
+      "images_github_pages_deploy_github_codespaces_workspace",
+      "images_github_pages_deploy_github_folder",
+      "images_github_pages_deploy_github_pages_deploy_development_environment_screenshot",
+      "images_github_pages_deploy_integrated_terminal_panel",
+      "images_github_pages_deploy_localhost_1234_server_url",
+      "images_github_pages_deploy_my_portfolio_site_project",
+      "images_github_pages_deploy_npm_run_start_command",
+      "images_github_pages_deploy_package_json_file",
+      "images_github_pages_deploy_parcel_development_server",
+      "images_github_pages_deploy_src_folder",
+      "images_github_pages_deploy_visual_studio_code_interface"
+    ],
+    "4": [
+      "src_app",
+      "src_app_app",
+      "src_app_certifications",
+      "src_app_experience",
+      "src_app_focusareas",
+      "src_app_metrics",
+      "src_app_navitems",
+      "src_app_patents",
+      "src_app_profile",
+      "src_app_projects",
+      "src_app_skillgroups",
+      "src_index"
+    ],
+    "5": [
+      "package_devdependencies",
+      "package_devdependencies_eslint",
+      "package_devdependencies_eslint_config_prettier",
+      "package_devdependencies_eslint_plugin_jsx_a11y",
+      "package_devdependencies_eslint_plugin_prettier",
+      "package_devdependencies_eslint_plugin_react",
+      "package_devdependencies_gh_pages",
+      "package_devdependencies_html_webpack_plugin",
+      "package_devdependencies_parcel",
+      "package_devdependencies_prettier",
+      "package_devdependencies_process"
+    ],
+    "6": [
+      "images_bg_2021_calendar_page",
+      "images_bg_coffee_cup",
+      "images_bg_laptop_computer",
+      "images_bg_latte_art",
+      "images_bg_mailchimp_logo_on_cup",
+      "images_bg_open_calendar_planner",
+      "images_bg_remote_work_lifestyle",
+      "images_bg_smartphone",
+      "images_bg_wooden_table",
+      "images_bg_workspace_desk_scene"
+    ],
+    "7": [
+      "images_design_desk_bookshelf",
+      "images_design_desk_colored_pencils",
+      "images_design_desk_creative_design_workspace",
+      "images_design_desk_design_research_materials",
+      "images_design_desk_ipod_mini_brochure",
+      "images_design_desk_laptop_keyboard",
+      "images_design_desk_logo_design_book",
+      "images_design_desk_sketch_notebook",
+      "images_design_desk_smartphone",
+      "images_design_desk_tea_cup"
+    ],
+    "8": [
+      "graphify_skill_build_cluster_export_outputs",
+      "graphify_skill_codex_parallel_subagents",
+      "graphify_skill_detection_and_corpus_scope",
+      "graphify_skill_honest_audit_trail",
+      "graphify_skill_incremental_update_and_manifest",
+      "graphify_skill_structural_semantic_extraction",
+      "references_query_save_result_feedback_loop",
+      "references_update_code_only_ast_path",
+      "references_update_incremental_re_extraction"
+    ],
+    "9": [
+      "graphify_skill_existing_graph_fast_path",
+      "graphify_skill_query_path_explain_tools",
+      "references_query_bfs_dfs_traversal_modes",
+      "references_query_query_path_explain_workflows",
+      "root_agents_dirty_graph_tolerance"
+    ],
+    "10": [
+      "references_add_watch_background_watch_workflow",
+      "references_add_watch_code_vs_semantic_update_split",
+      "references_add_watch_url_ingestion_workflow",
+      "references_hooks_post_commit_graph_hook"
+    ],
+    "11": [
+      "references_exports_database_and_file_exports",
+      "references_exports_flag_gated_exports",
+      "references_exports_mcp_and_benchmark",
+      "references_update_merge_prune_manifest"
+    ],
+    "12": [
+      "references_extraction_spec_confidence_scoring_policy",
+      "references_extraction_spec_deterministic_node_id_policy",
+      "references_extraction_spec_semantic_subagent_json_contract",
+      "references_transcribe_video_audio_transcription_workflow"
+    ],
+    "13": [
+      "code_of_conduct_microsoft_open_source_code_of_conduct",
+      "security_msrc_reporting_and_cvd",
+      "support_github_issues_support_policy"
+    ],
+    "14": [
+      "components_about",
+      "components_about_about",
+      "components_about_skillslist"
+    ],
+    "15": [
+      "components_portfolio",
+      "components_portfolio_portfolio",
+      "components_portfolio_projectlist"
+    ],
+    "16": [
+      "graphify_skill_skill_document",
+      "graphify_skill_usage_surface",
+      "root_agents_project_graphify_instructions"
+    ],
+    "17": [
+      "images_down_arrow_circular_outline",
+      "images_down_arrow_down_arrow_svg_icon",
+      "images_down_arrow_downward_chevron_arrow"
+    ],
+    "18": [
+      "socials_devdotto_brand",
+      "socials_devdotto_icon",
+      "socials_devdotto_white_monochrome_style"
+    ],
+    "19": [
+      "socials_envelope_brand",
+      "socials_envelope_icon",
+      "socials_envelope_white_monochrome_style"
+    ],
+    "20": [
+      "socials_twitter_brand",
+      "socials_twitter_icon",
+      "socials_twitter_white_monochrome_style"
+    ],
+    "21": [
+      "src_images_mosaic_mosaic_svg",
+      "src_images_mosaic_pastel_gradient_palette",
+      "src_images_mosaic_polygon_mesh"
+    ],
+    "22": [
+      "components_contactform",
+      "components_contactform_contactform"
+    ],
+    "23": [
+      "components_education",
+      "components_education_education"
+    ],
+    "24": [
+      "components_footer",
+      "components_footer_footer"
+    ],
+    "25": [
+      "components_header",
+      "components_header_header"
+    ],
+    "26": [
+      "components_home",
+      "components_home_home"
+    ],
+    "27": [
+      "references_github_and_merge_clone_cache_workflow",
+      "references_github_and_merge_graph_merge_workflow"
+    ],
+    "28": [
+      "references_query_answer_from_graph_only",
+      "references_query_cli_or_inline_traversal"
+    ],
+    "29": [
+      "socials_github_brand",
+      "socials_github_icon"
+    ],
+    "30": [
+      "socials_instagram_brand",
+      "socials_instagram_icon"
+    ],
+    "31": [
+      "socials_linkedin_brand",
+      "socials_linkedin_icon"
+    ],
+    "32": [
+      "socials_medium_brand",
+      "socials_medium_icon"
+    ],
+    "33": [
+      "socials_microsoft_brand",
+      "socials_microsoft_icon"
+    ],
+    "34": [
+      "socials_youtube_brand",
+      "socials_youtube_icon"
+    ],
+    "35": [
+      "root_agents_wiki_first_navigation"
+    ]
+  },
+  "cohesion": {
+    "0": 0.09090909090909091,
+    "1": 0.13333333333333333,
+    "2": 0.13333333333333333,
+    "3": 0.15384615384615385,
+    "4": 0.18181818181818182,
+    "5": 0.18181818181818182,
+    "6": 0.2,
+    "7": 0.2,
+    "8": 0.2222222222222222,
+    "9": 0.4,
+    "10": 0.5,
+    "11": 0.5,
+    "12": 0.5,
+    "13": 0.6666666666666666,
+    "14": 0.6666666666666666,
+    "15": 0.6666666666666666,
+    "16": 0.6666666666666666,
+    "17": 0.6666666666666666,
+    "18": 0.6666666666666666,
+    "19": 0.6666666666666666,
+    "20": 0.6666666666666666,
+    "21": 0.6666666666666666,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0,
+    "34": 1.0,
+    "35": 1.0
+  },
+  "gods": [
+    {
+      "id": "images_github_pages_deploy_github_pages_deploy_development_environment_screenshot",
+      "label": "GitHub Pages deploy development environment screenshot",
+      "degree": 12
+    },
+    {
+      "id": "images_js_portfolio_site_portfolio_website_homepage_hero",
+      "label": "Portfolio website homepage hero",
+      "degree": 10
+    },
+    {
+      "id": "images_bg_workspace_desk_scene",
+      "label": "Workspace desk scene",
+      "degree": 10
+    },
+    {
+      "id": "images_design_desk_creative_design_workspace",
+      "label": "Creative design workspace",
+      "degree": 10
+    },
+    {
+      "id": "images_swa_deploy_static_web_apps_deploy_development_environment",
+      "label": "Static Web Apps deploy development environment",
+      "degree": 8
+    },
+    {
+      "id": "package_scripts",
+      "label": "scripts",
+      "degree": 6
+    },
+    {
+      "id": "images_server_wall_data_center_server_wall_image",
+      "label": "Data center server wall image",
+      "degree": 5
+    },
+    {
+      "id": "graphify_skill_structural_semantic_extraction",
+      "label": "Structural and semantic extraction",
+      "degree": 4
+    },
+    {
+      "id": "package_repository",
+      "label": "repository",
+      "degree": 3
+    },
+    {
+      "id": "readme_javascript_portfolio_template",
+      "label": "JavaScript portfolio site template for GitHub Codespaces",
+      "degree": 3
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Abhinav Agrawal optimization and agentic AI portfolio metadata",
+      "target": "Abhinav Agrawal CV covering OTM optimization, packing algorithms, and agentic AI workflows",
+      "source_files": [
+        "src/index.html",
+        "Abhinav_Agrawal_CV (2).pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ paper); connects across different repos/directories; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Abhinav Agrawal optimization and agentic AI portfolio metadata",
+      "target": "Portfolio website homepage hero",
+      "source_files": [
+        "src/index.html",
+        "__images__/js-portfolio-site.gif"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ image); connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "Data center background",
+      "target": "Data center server wall image",
+      "source_files": [
+        "__images__/js-portfolio-site.gif",
+        "src/images/server-wall.jpg"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; semantically similar concepts with no structural link; peripheral node `Data center background` unexpectedly reaches hub `Data center server wall image`"
+    },
+    {
+      "source": "Spanish translation of JavaScript portfolio Codespaces template",
+      "target": "JavaScript portfolio site template for GitHub Codespaces",
+      "source_files": [
+        "translations/es/README.md",
+        "README.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "React Codespaces customization and static deployment workflow",
+      "target": "GitHub Codespaces",
+      "source_files": [
+        "README.md",
+        "__images__/swa-deploy.gif"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ image); connects across different repos/directories"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `Portfolio website homepage hero` connect `Portfolio Hero Design` to `Portfolio Deployment Context`?",
+      "why": "High betweenness centrality (0.016) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `devDependencies` connect `Development Dependencies` to `Package Metadata`?",
+      "why": "High betweenness centrality (0.015) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `name`, `version`, `description` to the rest of the system?",
+      "why": "135 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Package Metadata` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Portfolio Deployment Context` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Portfolio Hero Design` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
